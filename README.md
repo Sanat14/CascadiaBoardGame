@@ -14,6 +14,6 @@ Command-line implementation of the board game Cascadia using Java. (original rep
 
 ## Deployment
 
-To play this game just run the Game.java file after saving all the files locally on your system. You will be playing against a pre-programmed bot. Best of Luck!
+To play this game just run the Game.java file after saving all the files locally on your system. You will be playing against a pre-programmed bot. Best of Luck and enjoy!
 
 
